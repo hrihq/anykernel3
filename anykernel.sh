@@ -13,7 +13,7 @@ do.cleanuponabort=0
 device.name1=sweet
 device.name2=sweet_k6a
 device.name3=sweet2
-supported.versions=11 - 16
+supported.versions=11 - 17
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
