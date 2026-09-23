@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=
+kernel.string=D-77 Kernel by hrihq - RN12Pro4G
 do.devicecheck=1
 do.modules=0
 do.systemless=1
